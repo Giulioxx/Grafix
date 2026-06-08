@@ -1,6 +1,6 @@
 # Grafix
 
-Grafix è una piccola applicazione desktop di geometria e grafici di funzioni, scritta in Python con interfaccia **Tkinter** e disegno tramite **matplotlib**. L'idea è una versione minimale e "fatta in casa" di programmi tipo GeoGebra: si possono disegnare punti, segmenti, rette e cerchi sul piano cartesiano, tracciare funzioni ed equazioni, e fare alcune costruzioni geometriche (punto medio, intersezioni, distanze).
+Grafix è una piccola applicazione desktop di geometria e grafici di funzioni, scritta in Python con interfaccia **Tkinter** e disegno tramite **matplotlib**. L'idea è una versione minimale di programmi come GeoGebra: si possono disegnare punti, segmenti, rette e cerchi sul piano cartesiano, tracciare funzioni ed equazioni, e fare alcune costruzioni geometriche (punto medio, intersezioni, distanze).
 
 È un progetto realizzato come lavoro di fine anno scolastico, interamente da solo.
 

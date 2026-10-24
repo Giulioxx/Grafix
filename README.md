@@ -85,7 +85,7 @@ If you encounter a problem, please report it. Every report helps improve the app
 
 Bug Reports and Contact
 
-- Email: barbierigiulio8@gmail.com
+- Email: giuliooxx@gmail.com
 - Telegram: "@itsmegiulioxx" (https://t.me/itsmegiulioxx)
 
 When reporting a bug, please describe what you were doing, what you entered or clicked, and what happened. If possible, include any error message printed in the console, as it can be extremely helpful for troubleshooting.
